@@ -1,0 +1,8 @@
+    AutoSpawner:
+-
+
+    Sounds:
+- spawner sounds
+
+    Animations:
+- 

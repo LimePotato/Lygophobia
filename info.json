@@ -1,0 +1,9 @@
+{
+    "name": "lygophobia",
+    "version": "0.0.1",
+    "title": "Lygophobia",
+    "author": "LimePotato",
+    "factorio_version": "1.0",
+    "dependencies": ["base >= 1.0"],
+    "description": "Makes the darkness, a little more.... vibrant."
+  }
