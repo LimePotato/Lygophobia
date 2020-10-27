@@ -93,7 +93,7 @@ data:extend(
       sound =
       {
         {
-          filename = "__base__/sound/creatures/spawner.ogg",
+          filename = "__lygophobia__/sound/grue/spawner/grue-spawner.ogg",
           volume = 1.0
         }
       },
@@ -102,11 +102,7 @@ data:extend(
     dying_sound =
     {
       {
-        filename = "__base__/sound/creatures/spawner-death-1.ogg",
-        volume = 1.0
-      },
-      {
-        filename = "__base__/sound/creatures/spawner-death-2.ogg",
+        filename = "__lygophobia__/sound/grue/spawner/grue-spawner-corpse.ogg",
         volume = 1.0
       }
     },
