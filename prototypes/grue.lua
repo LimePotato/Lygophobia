@@ -45,7 +45,7 @@ data:extend(
     },
     vision_distance = 30,
     movement_speed = 0.2,
-    distance_per_frame = 0.1,
+    distance_per_frame = 0.3,
     pollution_to_join_attack = 700/2,
     distraction_cooldown = 300,
     min_pursue_time = 10 * 60,

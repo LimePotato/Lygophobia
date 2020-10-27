@@ -5,5 +5,5 @@
     "author": "LimePotato",
     "factorio_version": "1.0",
     "dependencies": ["base >= 1.0"],
-    "description": "Makes the darkness, a little more.... vibrant."
+    "description": "Makes the darkness, a little more.... vibrant. Credits to my dog for helping with Grue sounds."
   }
